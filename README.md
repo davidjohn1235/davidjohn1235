@@ -50,7 +50,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white">
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=HTB&Color=white" />
 </div>
 
