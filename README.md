@@ -9,17 +9,21 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           |     Associated Project     |
+|-------------------------------------------------|----------------------------|
+| EDR Implementation and Log Analysis             | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
+| Blocking attacks                                | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|            
+| Threat Hunting with Yara                        | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
 
-## Tools
 
+### Incident Response & Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Eric Zimmermann's Tools-1679A7?&style=for-the-badge&logo=Eric Zimmermann's Tools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volitality-1679A7?&style=for-the-badge&logo=Volitality&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-1679A7?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -51,5 +55,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Threat Detection, Analysis and Blocking Lab
