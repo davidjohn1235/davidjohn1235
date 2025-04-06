@@ -11,10 +11,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                           |     Associated Project     |
 |-------------------------------------------------|----------------------------|
-| EDR Implementation and Log Analysis             | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
-| Blocking attacks                                | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|            
-| Threat Hunting with Yara                        | <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>|
+| EDR Implementation and Log Analysis             | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
+| Blocking attacks                                | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|            
+| Threat Hunting with Yara                        | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
 
 
 ### Incident Response & Forensics
@@ -55,4 +55,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>
+- <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>
