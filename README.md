@@ -55,4 +55,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Threat Detection, Analysis and Blocking Lab
+- <a href="https://google.com">Threat Detection, Analysis and Blocking Lab</a>
