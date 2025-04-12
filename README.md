@@ -1,7 +1,7 @@
 # Hello, I'm David John
 <a href="https://www.linkedin.com/in/davidjohn3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced Cybersecurity and Network professional with 4+ years of experience in NOC/SOC operations, network security, and incident response. Proficient in security tools such as Splunk, Microsoft Sentinel, and Elastic SIEM, with hands-on expertise in EDR solutions like Microsoft Defender. Skilled in threat intelligence, IDS/IPS monitoring (Snort, Zeek, Suricata), and forensic analysis using Volatility and Autopsy. Experienced in managing high-priority incidents, mitigating vulnerabilities, and optimizing network security for enterprise environments. Strong background in Active Directory administration, firewall management (Palo Alto, Fortigate), and compliance auditing. Adept at collaborating with cross-functional teams to enhance security posture and ensure regulatory compliance.
+Experienced Cybersecurity and Network professional with 4+ years of experience in NOC operations, network security, and incident response.
 
 ## Objective
 
