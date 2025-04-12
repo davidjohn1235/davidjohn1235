@@ -36,6 +36,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-x64dbg-1679A7?&style=for-the-badge&logo=x64dbg&logoColor=white" />
     <img src="https://img.shields.io/badge/-Noriben-1679A7?&style=for-the-badge&logo=Noriben&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ghidra-1679A7?&style=for-the-badge&logo=Ghidra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cutter-1679A7?&style=for-the-badge&logo=Cutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PeStudio-1679A7?&style=for-the-badge&logo=PeStudio&logoColor=white" />
 </div>
 
 ### Network
