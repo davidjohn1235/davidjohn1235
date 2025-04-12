@@ -18,8 +18,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | AWS IAM                                         | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|            
 | Terraform                                       | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|  
 | EC2 Sandbox                                     | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|  
-| Static Malware Analysis                         | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environme hosted in AWS</a>|  
-| Dynamic Malware Analysis                        | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environme hosted in AWS</a>|  
+| Static Malware Analysis                         | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
+| Dynamic Malware Analysis                        | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
 
 
 ### Incident Response & Forensics
@@ -28,6 +28,14 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Volitality-1679A7?&style=for-the-badge&logo=Volitality&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-1679A7?&style=for-the-badge&logo=Autopsy&logoColor=white" />
     <img src="https://img.shields.io/badge/-FTK-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
+</div>
+
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-IDA-1679A7?&style=for-the-badge&logo=IDA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-x64dbg-1679A7?&style=for-the-badge&logo=x64dbg&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Noriben-1679A7?&style=for-the-badge&logo=Noriben&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ghidra-1679A7?&style=for-the-badge&logo=Ghidra&logoColor=white" />
 </div>
 
 ### Network
@@ -53,6 +61,11 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=AWS&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white">
@@ -62,4 +75,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>
 - <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>
-- <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environme hosted in AWS</a>
+- <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>
