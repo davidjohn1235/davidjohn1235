@@ -18,8 +18,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | AWS IAM                                         | <a href="https://github.com/davidjohn1235/AWS-Malware-Analysis-Sandbox-Lab-Setup/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|            
 | Terraform                                       | <a href="https://github.com/davidjohn1235/AWS-Malware-Analysis-Sandbox-Lab-Setup/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|  
 | EC2 Sandbox                                     | <a href="https://github.com/davidjohn1235/AWS-Malware-Analysis-Sandbox-Lab-Setup/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>|  
-| Static Malware Analysis                         | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
-| Dynamic Malware Analysis                        | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
+| Static Malware Analysis                         | <a href="https://github.com/davidjohn1235/Malware-Analysis-in-FlareVM-Sandbox-Environment-hosted-in-AWS">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
+| Dynamic Malware Analysis                        | <a href="https://github.com/davidjohn1235/Malware-Analysis-in-FlareVM-Sandbox-Environment-hosted-in-AWS">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
 
 
 ### Incident Response & Forensics
@@ -77,4 +77,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>
 - <a href="https://github.com/davidjohn1235/AWS-Malware-Analysis-Sandbox-Lab-Setup/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>
-- <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>
+- <a href="https://github.com/davidjohn1235/Malware-Analysis-in-FlareVM-Sandbox-Environment-hosted-in-AWS">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>
