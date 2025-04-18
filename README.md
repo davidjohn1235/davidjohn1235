@@ -24,7 +24,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ### Incident Response & Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Eric Zimmermann's Tools-1679A7?&style=for-the-badge&logo=Eric Zimmermann's Tools&logoColor=white" />
     <img src="https://img.shields.io/badge/-Volitality-1679A7?&style=for-the-badge&logo=Volitality&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-1679A7?&style=for-the-badge&logo=Autopsy&logoColor=white" />
     <img src="https://img.shields.io/badge/-FTK-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
@@ -38,6 +37,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Ghidra-1679A7?&style=for-the-badge&logo=Ghidra&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cutter-1679A7?&style=for-the-badge&logo=Cutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-PeStudio-1679A7?&style=for-the-badge&logo=PeStudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Procmon-1679A7?&style=for-the-badge&logo=Procmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysinternal_Suite-1679A7?&style=for-the-badge&logo=Sysinternal_Suite&logoColor=white" />
 </div>
 
 ### Network
