@@ -11,6 +11,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                           |     Associated Project     |
 |-------------------------------------------------|----------------------------|
+| Site to Site VPN Between On Prem and AWS        |
 | EDR Implementation and Log Analysis             | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
 | Blocking attacks                                | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|            
@@ -73,6 +74,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <div>
 <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white">
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=HTB&Color=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ## Projects
