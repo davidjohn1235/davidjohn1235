@@ -11,7 +11,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                           |     Associated Project     |
 |-------------------------------------------------|----------------------------|
-| Site to Site VPN Between On Prem and AWS        |
+| Site to Site VPN Between On Prem and AWS        | <a href="https://github.com/davidjohn1235/Site-to-Site-VPN-Between-On-Prem-and-AWS/blob/main/README.md">Site to Site VPN Between On Prem and AWS
+| Firewall IPSec Tunnel Config                    | <a href="https://github.com/davidjohn1235/Site-to-Site-VPN-Between-On-Prem-and-AWS/blob/main/README.md">Site to Site VPN Between On Prem and AWS
+| AWS Networking                                  | <a href="https://github.com/davidjohn1235/Site-to-Site-VPN-Between-On-Prem-and-AWS/blob/main/README.md">Site to Site VPN Between On Prem and AWS
+| AWS Security                                    | <a href="https://github.com/davidjohn1235/Site-to-Site-VPN-Between-On-Prem-and-AWS/blob/main/README.md">Site to Site VPN Between On Prem and AWS
 | EDR Implementation and Log Analysis             | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|
 | Blocking attacks                                | <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>|            
@@ -22,6 +25,14 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Static Malware Analysis                         | <a href="https://github.com/davidjohn1235/Malware-Analysis-in-FlareVM-Sandbox-Environment-hosted-in-AWS">Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>|  
 | Dynamic Malware Analysis                        | <a href="https://github.com/davidjohn1235/Dynamic-Malware-Analysis/blob/main/README.md">Dynamic Malware Analysis</a>|  
 
+### Cloud Security
+<div>
+    <img src="https://img.shields.io/badge/-AWS_GuardDuty-1679A7?&style=for-the-badge&logo=Volitality&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_IAM-1679A7?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Security_Hub-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Inspector-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_KMS-1679A7?&style=for-the-badge&logo=FTK&logoColor=white" />
+</div>
 
 ### Incident Response & Forensics
 <div>
@@ -44,6 +55,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Routing_&_Switching-1679A7?&style=for-the-badge&&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
