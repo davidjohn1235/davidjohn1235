@@ -1,7 +1,7 @@
 # Hello, I'm David John
 <a href="https://www.linkedin.com/in/davidjohn3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced Cybersecurity and Network professional with 4+ years of experience in NOC operations, network security, and incident response.
+Experienced Network & Security professional with 4+ years of experience in NOC operations, network security, and incident response.
 
 ## Objective
 
@@ -90,6 +90,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
+- <a href="https://github.com/davidjohn1235/Site-to-Site-VPN-Between-On-Prem-and-AWS/blob/main/README.md">Site to Site VPN Between On Prem and AWS
 - <a href="https://github.com/davidjohn1235/Threat-Detection-Analysis-and-Blocking-Lab/blob/main/README.md">Threat Detection, Analysis and Blocking Lab</a>
 - <a href="https://github.com/davidjohn1235/AWS-Malware-Analysis-Sandbox-Lab-Setup/blob/main/README.md">AWS Malware Analysis Sandbox Lab Setup</a>
 - <a href="https://github.com/davidjohn1235/Malware-Analysis-in-FlareVM-Sandbox-Environment-hosted-in-AWS">Static Malware Analysis in FlareVM Sandbox Environment hosted in AWS</a>
